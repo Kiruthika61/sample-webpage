@@ -1,0 +1,47 @@
+*{
+    background-color:white;
+    color:black;
+    text-align: center;
+}
+li,h1{
+    display: inline;
+}
+.li:hover{
+          background-color: gray;
+          color: white;
+}
+
+.box{
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+}
+.box:hover{
+    background-color:black;
+    color:white;
+}
+.food{
+    background-color:black;
+}
+h3{
+     background-color: black;
+     color: white;
+     display: inline;
+}
+.in{
+     display: inline-block;
+     width: 20px;
+     text-align: center;
+     margin-right: 250px;
+}
+
+.one{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    width: 500px;
+}
+
+    
